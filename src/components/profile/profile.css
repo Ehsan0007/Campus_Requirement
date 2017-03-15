@@ -1,0 +1,17 @@
+.card{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px
+}
+.jobs{
+    text-align: center;
+}
+.listavatar{
+    height: 170px;
+}
+.pic{
+    margin-top: 30px
+}
+.text{
+    margin-left: 10px
+}

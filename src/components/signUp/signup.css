@@ -1,0 +1,35 @@
+.main-login-div{
+    width: 100%;
+    
+}
+
+.full-width-container{
+    width: 100% !important;
+}
+.main_card{
+    width: 80%
+}
+.signmain{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 50px
+}
+.text{
+    text-align: center;
+    font-size: '36px';
+    font-weight: bold;
+    
+}
+/*@media only screen and (max-width: 768px) {
+    .main-login-div{
+        width: 80%;
+        margin: 5% auto;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .main-login-div{
+        width: 50%;
+        margin: 5% auto;
+    }
+}*/
